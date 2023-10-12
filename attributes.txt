@@ -1,0 +1,6 @@
+waterAndLand
+meat
+scales
+green
+cold
+reptile
